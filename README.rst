@@ -25,9 +25,16 @@ A Mopidy frontend to control mopidy with an infrared remote control. It is using
 Installation
 ============
 
+Install the dependencies by running::
+
+    sudo apt-get install python-dev liblircclient-dev
+
+
 Install by running::
 
     pip install Mopidy-IRControl
+
+    
 
 Or, if available, install the Debian/Ubuntu package from `apt.mopidy.com
 <http://apt.mopidy.com/>`_.
