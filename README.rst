@@ -27,7 +27,7 @@ Installation
 
 Install the dependencies by running::
 
-    sudo apt-get install python-dev liblircclient-dev
+    sudo apt-get install python-dev lirc liblircclient-dev
 
 
 Install by running::
